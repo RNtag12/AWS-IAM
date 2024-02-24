@@ -79,6 +79,10 @@ We stopped the labhost instances .
 <br /><br />
 <br />
 
+
+<h2>Summary of the Project </h2>
+This project serves as a practical exploration of some of the AWS-IAM. we first assigned each user to their respective groups then we checked their access to resources to ensure that they had the right permissions.
+
   
 
 
