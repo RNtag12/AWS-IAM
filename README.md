@@ -17,7 +17,7 @@ Connecting to the AWS Management Console is the first step of this process. The 
 <br />
  <h3>Exploring Users and groups</h3> 
 This task involves exploring the users and groups. Here 3 users and 3 groups have been created. Note that no user has any permissions. Below is a summary page of all the users : <br/><br/>
-<img src="https://imgur.com/lkRsq3h.png" height="80%" width="80%" alt="users"/>
+<img src="https://imgur.com/SHax6sw.png" height="80%" width="80%" alt="users"/> 
 <br />
 <br />
 here is a summary page of all the groups created:<br/><br/>
@@ -37,18 +37,18 @@ To achieve the above requirements, we have a number of tasks to do:
                   
    - <b>Add users to Groups:</b> user-1, user-2 and user-3 are added and assigned to their respective groups. Permissions are also added during this task.<br/>
 -Adding user-1 to S3-support<br/>
-<img src="https://imgur.com/qBBd7bu.png" height="80%" width="80%" alt="user1"/>
+<img src="https://imgur.com/evvgRmC.png" height="80%" width="80%" alt="user1"/>
 <br />
 <img src="https://imgur.com/Ew3FdwD.png" height="80%" width="80%" alt="user1"/>
 <br /><br />
 
 -Adding user-2 to EC2-Support group <br/>
-<img src="https://imgur.com/SmLeYRN.png" height="80%" width="80%" alt="user2"/>
+<img src="https://imgur.com/pYpztRg.png" height="80%" width="80%" alt="user2"/>
 <br />
 <img src="https://imgur.com/1ZUoAnA.png" height="80%" width="80%" alt="user2"/>
 <br /><br />
 -Adding user-3 to EC2-Admin group <br/>
-<img src="https://imgur.com/DK3NxYM.png" height="80%" width="80%" alt="user3"/>
+<img src="https://imgur.com/9GtlrTa.png" height="80%" width="80%" alt="user3"/>
 <br />
 <img src="https://imgur.com/3xp8JMT.png" height="80%" width="80%" alt="user3"/>
 <br /><br />
