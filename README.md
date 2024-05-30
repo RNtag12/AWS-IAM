@@ -20,8 +20,7 @@ This task involves exploring the users and groups. Here 3 users and 3 groups hav
 <img src="https://imgur.com/SHax6sw.png" height="80%" width="80%" alt="users"/> 
 <br />
 <br />
-here is a summary page of all the groups created:<br/><br/>
-<img src="https://imgur.com/Grl0OYp.png" height="80%" width="80%" alt="user groups"/>
+
 <br />
 <br />
   
