@@ -1,6 +1,7 @@
 # AWS-IAM
 
 <h1>AWS Identity and Access Management(IAM)</h1>
+The project describes the easiest  way to define and manager user permissions when you are hosting a web application in AWS. This ensures a controlled
 
 <h2> Project Description</h2>
 This project is executed and built using AWS management console. AWS-IAM is a web service for managing users and user permissions in AWS. This project will demonstrate inspecting IAM policies, adding users to groups with specific capabilities enabled, using the IAM sign-in URL and experimenting with the effects of policies on service access.
