@@ -1,4 +1,3 @@
-# AWS-IAM
 
 <h1>AWS Identity and Access Management(IAM)</h1>
 The project describes the easiest  way to define and manager user permissions when you are hosting a web application in AWS. 
